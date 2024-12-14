@@ -1,5 +1,16 @@
-### Hi there 👋
+# About Me
 
-I am an AI + HCI researcher with focus on improving human-AI interaction. Recently, I helped create numerous agentic projects including [AutoGen](https://aka.ms/autogen-gh), [AutoGen Studio](https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-studio), [Magentic-One](https://aka.ms/magentic-one). 
+I am an AI + HCI researcher focused on improving human-AI interaction. Here are some open-source projects I've helped lead:
 
-We released a preview of [AutoGen 0.4](https://microsoft.github.io/autogen/dev/)! Checkout it out!
+- **[AutoGen](https://aka.ms/autogen-gh)**: A Python framework for building agentic AI systems and multi-agent applications.
+- **[AutoGen Studio](https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-studio)**: An interactive no-code interface for prototyping agents.
+- **[Magentic-One](https://aka.ms/magentic-one)**: A state-of-the-art multi-agent team for complex tasks built using AutoGen
+- **[MarkItDown](https://github.com/microsoft/markitdown)**: A Python tool for converting various files to markdown.
+
+---
+
+### Latest Update
+
+Preview released: **[AutoGen 0.4](https://microsoft.github.io/autogen/dev/)** — explore the new features, agent runtime, distributed, cross language support.
+
+See our [statement on AutoGen forks](https://github.com/microsoft/autogen/discussions/4217).
