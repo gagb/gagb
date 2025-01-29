@@ -11,6 +11,6 @@ I am an AI + HCI researcher focused on improving human-AI interaction. Here are 
 
 ### Latest Update
 
-Preview released: **[AutoGen 0.4](https://microsoft.github.io/autogen/dev/)** — explore the new features, agent runtime, distributed, cross language support.
-
-Are you an AutoGen user? Please see this [statement on AutoGen forks](https://github.com/microsoft/autogen/discussions/4217).
+- [AutoGen 0.4](aka.ms/autogen) has been released
+- Preview released: **[AutoGen 0.4](https://microsoft.github.io/autogen/dev/)** — explore the new features, agent runtime, distributed, cross language support.
+- Are you an AutoGen user? Please see this [statement on AutoGen forks](https://github.com/microsoft/autogen/discussions/4217).
