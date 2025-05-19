@@ -6,6 +6,7 @@ I am an AI researcher focused on improving human-AI interaction. Here are some o
 - **[AutoGen Studio](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-studio)**: An interactive no-code interface for prototyping agents.
 - **[Magentic-One](https://aka.ms/magentic-one)**: A state-of-the-art multi-agent team for complex tasks built using AutoGen
 - **[MarkItDown](https://github.com/microsoft/markitdown)**: A Python tool for converting various files to markdown.
+- **[MagenticUI](https://github.com/microsoft/magentic-ui)**: A human-centered web agent built using AutoGen and Magentic-One.
 
 ---
 
