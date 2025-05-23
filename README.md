@@ -1,6 +1,6 @@
 # About Me
 
-I am an AI researcher focused on improving human-AI interaction. Here are some open-source projects I've helped lead:
+I am an AI researcher focused on improving human-AI interaction. I've co-led several open-source projects:
 
 - **[AutoGen](https://aka.ms/autogen-gh)**: A Python framework for building agentic AI systems and multi-agent applications.
 - **[AutoGen Studio](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-studio)**: An interactive no-code interface for prototyping agents.
