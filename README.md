@@ -10,6 +10,4 @@ I am an AI researcher focused on improving human-AI interaction. I've co-led sev
 
 ### Latest Update
 
-- [Magentic-UI](https://www.microsoft.com/en-us/research/blog/magentic-ui-an-experimental-human-centered-web-agent/) has been released! Agents are becoming more human-centered.
-- [AutoGen 0.4](aka.ms/autogen) has been released! Embraces actor model for multi-agents.
-- Are you an AutoGen user? Please see this [statement on AutoGen forks](https://github.com/microsoft/autogen/discussions/4217).
+- Are you an AutoGen user? Please see this [statement on AutoGen forks from Microsoft](https://github.com/microsoft/autogen/discussions/4217).
