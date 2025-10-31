@@ -10,5 +10,6 @@ I am an AI researcher focused on improving human-AI interaction. I've co-led sev
 
 ### Latest Update
 
+- (Oct, 25) We released [Magentic-Marketplace](https://github.com/microsoft/multi-agent-marketplace) -- an opensource environment for understanding agentic markets.
 - (Oct, 25) AutoGen and Semantic Kernel have combined forces to build [Microsoft's Official Agent Framemork](https://github.com/microsoft/agent-framework)
 - Are you an AutoGen user? Please see this [statement on AutoGen forks from Microsoft](https://github.com/microsoft/autogen/discussions/4217).
